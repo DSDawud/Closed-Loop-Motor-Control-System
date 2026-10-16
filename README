@@ -1,6 +1,6 @@
 << CLOSED-LOOP MOTOR CONTROL SYSTEM >>
 
-main components:
+main components (these are the best components I have at the moment):
 *ESP32 Microcontroller
 *3-6V DC Motor
 *L293D IC
