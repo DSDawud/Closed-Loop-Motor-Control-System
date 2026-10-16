@@ -4,9 +4,10 @@ main components:
 *ESP32 Microcontroller
 *3-6V DC Motor
 *L293D IC
-*Obstacle Avoidance Module (OAM for short)
+*Obstacle Avoidance Module (OAM)
 
--The project is coded with C++
+-It will be PID controlled.
+-The project is coded with C++.
 -Made a DIY tachometer using the obstacle avoidance module.
 -The IR sensor in the obstacle avoidance module reads the the RPM of the motor speed when attaching a fan attachment.
 -The DC motor PWM is controlled by the 10k ohm potentiometer.
