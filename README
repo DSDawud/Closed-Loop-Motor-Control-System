@@ -3,7 +3,7 @@
 main components (these are the best components I have at the moment):
 *ESP32 Microcontroller
 *3-6V DC Motor
-*L293D IC
+*L293D Motor Driver
 *Obstacle Avoidance Module (OAM)
 
 -It will be PID controlled.
