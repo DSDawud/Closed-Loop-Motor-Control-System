@@ -1,6 +1,5 @@
 # CLOSED-LOOP MOTOR CONTROL SYSTEM
 Currently developing a closed-loop motor control system using an ESP32, 3-6V DC motor, L293D, 10k ohm potentiometer, and an obstacle avoidance module. It will be PID controlled.
-- It will be PID controlled.
 - The project is coded with C++.
 - Made a DIY tachometer using the obstacle avoidance module.
 - The IR sensor in the obstacle avoidance module reads the the RPM of the motor speed when attaching a fan attachment.
