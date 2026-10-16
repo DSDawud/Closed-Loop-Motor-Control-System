@@ -1,5 +1,5 @@
 # CLOSED-LOOP MOTOR CONTROL SYSTEM
-
+Currently developing a closed-loop motor control system using an ESP32, 3-6V DC motor, L293D, 10k ohm potentiometer, and an obstacle avoidance module. It will be PID controlled.
 ## main components (these are the best components I have at the moment):
 *ESP32 Microcontroller
 *3-6V DC Motor
