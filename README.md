@@ -12,6 +12,6 @@ Currently developing a closed-loop motor control system using an ESP32, 3-6V DC 
 
 
 ## Current State
-When the OAM is connected to the GPI01 pin on the ESP32, false pulse readings are detected by the OAM even when the motor fan
+When the OAM is connected to the GPI026 pin on the ESP32, false pulse readings are detected by the OAM even when the motor fan
 isn't in front of the IR sensor. This could be due to electrical noise which means I could use decoupling capacitors to fix the
 issue but for now I am not sure. I am currently trying to figure out why it happens. Might have to switch to the Elegoo Uno R3 microcontroller.
