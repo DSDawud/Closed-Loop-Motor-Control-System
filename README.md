@@ -1,6 +1,6 @@
 # CLOSED-LOOP MOTOR CONTROL SYSTEM
 Currently developing a closed-loop motor control system that will be PI controlled.
-- The project is coded with C++.
+- The project is coded with C++ using Arduino IDE.
 - The magnetic hall encoder reads the the RPM of the motor speed.
 - The DC motor PWM is controlled by the rotary encoder.
 
